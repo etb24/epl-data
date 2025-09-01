@@ -1,6 +1,6 @@
 # EPL Data Spring Boot App
 
-This is a **Spring Boot** tutorial project that integrates with a **PostgreSQL** database to manage and display English Premier League (EPL) player statistics.
+This is a **Spring Boot** project that integrates with a **PostgreSQL** database to manage and display English Premier League (EPL) player statistics.
 
 ## Features
 
